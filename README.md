@@ -2,26 +2,28 @@
 
 ## 🚀 About Me
 
-I'm a passionate SwiftUI Software Engineer with a flair for web development and a touch of creativity as a Photoshop artist. As an Apple enthusiast, I thrive on building sleek and intuitive iOS/macOS apps that bring ideas to life. My coding journey is not just about lines of code; it's about crafting seamless user experiences and pushing the boundaries of what's possible in the digital realm.
+Welcome to the digital realm where creativity meets functionality! I'm @amygdalios, a dedicated SwiftUI Software Engineer with a passion for crafting seamless user experiences on Apple devices. Beyond the lines of code, my journey involves pushing the boundaries of digital possibilities and bringing ideas to life.
+
+As a tech enthusiast, my expertise extends to web development, and my creativity finds expression in the realm of Photoshop artistry. I believe in the synergy of design and functionality, striving to create sleek and intuitive iOS/macOS apps that resonate with users.
 
 ## 💻 Tech Stack
 
-- **Swift & SwiftUI**: Crafting elegant and responsive user interfaces for Apple devices.
+- **Swift & SwiftUI**: Mastering the art of crafting elegant and responsive user interfaces for Apple devices.
 - **HTML, CSS, JavaScript**: Weaving magic on the web with a focus on clean and efficient code.
 - **Photoshop**: Transforming ideas into visually stunning artworks.
+- **Video Editing**: Adding a cinematic touch to storytelling through video editing.
+- **Photography**: Capturing moments through the lens, turning ordinary scenes into extraordinary visuals.
 
 ## 🌈 Let's Connect
 
 - **Twitter**: [@amygdalios](https://twitter.com/amygdalios)
+- **Personal Instagram**: [@amygdalios](https://www.instagram.com/amygdalioss/)
+- **Instagram Designer**: [@h264design](https://www.instagram.com/h264design/)
 
--  **Personal Instagram**: [@amygdalios](https://www.instagram.com/amygdalioss/)
-
-- **Instagram Designer** [@h264design](https://www.instagram.com/h264design/)
-
-Feel free to reach out if you share a passion for technology, design, or just want to connect!
+Feel free to reach out if you share a passion for technology, design, video editing, photography, or if you just want to connect!
 
 ## 🚀 Fun Fact
 
-I believe that the best code is a blend of creativity and functionality, just like a masterpiece in Photoshop or a well-designed user interface.
+I believe that the best code is a fusion of creativity and functionality, mirroring the essence of a Photoshop masterpiece or a thoughtfully designed user interface.
 
-Happy coding! 🚀
+Happy coding and creating! 🚀

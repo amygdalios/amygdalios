@@ -14,6 +14,10 @@ I'm a passionate SwiftUI Software Engineer with a flair for web development and 
 
 - **Twitter**: [@amygdalios](https://twitter.com/amygdalios)
 
+-  **Personal Instagram**: [@amygdalios](https://www.instagram.com/amygdalioss/)
+
+- **Instagram Designer** [@h264design](https://www.instagram.com/h264design/)
+
 Feel free to reach out if you share a passion for technology, design, or just want to connect!
 
 ## 🚀 Fun Fact

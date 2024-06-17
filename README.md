@@ -12,7 +12,7 @@
 ## Let's Connect 🌈
 
 - **Twitter**: [@amygdalios](https://twitter.com/amygdalios)
-- **Personal Instagram**: [@amygdalios](https://www.instagram.com/amygdalioss/)
+- **Personal Instagram**: [@amygdalioss](https://www.instagram.com/amygdalioss/)
 - **Instagram Designer**: [@h264design](https://www.instagram.com/h264design/)
 
 Hit me up if you're into tech, design, video editing, photography, or just want to connect!

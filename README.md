@@ -9,7 +9,7 @@
 - **Video Editing**: Adding cinematic flair to stories.
 - **Photography**: Capturing life's moments through my lens.
 
-## Let's Connect 🌈
+## Let's Connect 🌎
 
 - **Twitter**: [@amygdalios](https://twitter.com/amygdalios)
 - **Personal Instagram**: [@amygdalioss](https://www.instagram.com/amygdalioss/)

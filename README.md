@@ -1,4 +1,4 @@
-# Hello, World! I'm Amygdalios 👋
+# Hello, World! 👋
 
 ## Tech Stack 💻
 

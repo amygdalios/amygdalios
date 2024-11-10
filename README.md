@@ -9,10 +9,13 @@
 - **Video Editing**: Adding cinematic flair to stories.
 
 ## Stats
+<center>
+  ![amygdalios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amygdalios&theme=monokai&hide_border=false)
+  ![amygdalios's Stats](https://github-readme-stats.vercel.app/api?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+  ![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+</center>
 
-![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
-![amygdalios's Stats](https://github-readme-stats.vercel.app/api?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![amygdalios's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amygdalios&theme=monokai&hide_border=false)
+
   
 ## Let's Connect 🌎
 

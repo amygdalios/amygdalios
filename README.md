@@ -7,6 +7,10 @@
 - **Python**: Basic knowledge in creating terminal based tools using python.
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.
+
+## Stats
+
+![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
   
 ## Let's Connect 🌎
 
@@ -15,7 +19,3 @@
 - **Instagram Designer**: [@h264design](https://www.instagram.com/h264design/)
 
 Hit me up if you're into tech, design, video editing, or just want to connect!
-
-## Stats
-
-![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)

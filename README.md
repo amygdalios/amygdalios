@@ -8,6 +8,7 @@
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.
 
+## Stats
 ![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 

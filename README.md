@@ -4,7 +4,7 @@
 
 - **Swift & SwiftUI**: Making interfaces for Apple gadgets.
 - **HTML, CSS, JavaScript**: Making cool stuff on the web.
-- **Python scripts**: Creating helpfull tools for developers and network architects.
+- **Python**: Basic knowledge in creating terminal based tools using python.
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.
   

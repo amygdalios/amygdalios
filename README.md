@@ -8,6 +8,8 @@
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bash,figma,git,github,linux,notion,py,swift,vscode,)](https://skillicons.dev)
+
 ## Stats
 ![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 

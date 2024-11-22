@@ -18,7 +18,7 @@
 
 
 ## Certificates 📜
-[Python (Basic) from hackerrank](https://www.hackerrank.com/certificates/4ff987be7b7e)
+- **Python (Basic) from hackerrank** [View](https://www.hackerrank.com/certificates/4ff987be7b7e)
 
 ## Let's Connect 🌎
 

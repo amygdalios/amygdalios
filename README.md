@@ -4,6 +4,9 @@
 
 - **Swift & SwiftUI**: Making interfaces for Apple gadgets.
 - **HTML, CSS, JavaScript**: Making cool stuff on the web.
+- **Bash**: Basic knowledge in using a UNIX computer through the terminal.
+- **Figma**: Creating and pre-planning app UI.
+- **Git**: Controlling app versions.
 - **Python**: Basic knowledge in creating terminal based tools using python.
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.

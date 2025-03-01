@@ -3,6 +3,7 @@
 ## Tech Stack 💻
 
 - **Swift & SwiftUI**: Making interfaces for Apple gadgets.
+- **C**: Basic understanding of the C programming language
 - **HTML, CSS, JavaScript**: Making cool stuff on the web.
 - **Bash**: Basic knowledge in using a UNIX computer through the terminal.
 - **Figma**: Creating and pre-planning app UI.

@@ -12,7 +12,7 @@
 - **Photoshop**: Turning ideas into eye-catching art.
 - **Video Editing**: Adding cinematic flair to stories.
 
-[![My Skills](https://skillicons.dev/icons?i=c,mint,apple,bash,figma,ps,git,github,raspberrypi,linux,notion,py,swift,vscode,firebase&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,bash,figma,ps,git,github,raspberrypi,linux,notion,py,c,swift,vscode,firebase&perline=7)](https://skillicons.dev)
 
 ## Stats 📊
 ![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)

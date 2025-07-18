@@ -1,4 +1,4 @@
-# Alex Amygdalios 👨🏻‍💻
+# <p style="text-align: center;">👋 Hi, I'm Alex 👨🏻‍💻 </p>
 
 ## Tech Stack 💻
 

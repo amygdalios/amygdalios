@@ -19,7 +19,6 @@
 
 ## Let's Connect 🌎
 
-- **Twitter**: [@amygdalios](https://twitter.com/amygdalios)
 - **Personal Instagram**: [@amygdalioss](https://www.instagram.com/amygdalioss/)
 - **LinkedIn**: [Alex Amygdalios](https://www.linkedin.com/in/%CE%B1%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82-%CE%B1%CE%BC%CF%85%CE%B3%CE%B4%CE%B1%CE%BB%CE%B9%CF%8C%CF%82-525308283/)
 

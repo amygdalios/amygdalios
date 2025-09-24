@@ -4,13 +4,9 @@
 
 - **Swift & SwiftUI**: Making interfaces for Apple gadgets.
 - **C**: Basic understanding of the C programming language
-- **HTML, CSS, JavaScript**: Making cool stuff on the web.
-- **Bash**: Basic knowledge in using a UNIX computer through the terminal.
-- **Figma**: Creating and pre-planning app UI.
 - **Git**: Controlling app versions.
-- **Python**: Basic knowledge in creating terminal based tools using python.
-- **Photoshop**: Turning ideas into eye-catching art.
-- **Video Editing**: Adding cinematic flair to stories.
+- **Python**: Advanced knowledge in API communications, automations, daemon scripts, async, modular and OOP.
+
 
 [![My Skills](https://skillicons.dev/icons?i=apple,bash,figma,ps,git,github,raspberrypi,linux,notion,py,c,swift,vscode,firebase&perline=7)](https://skillicons.dev)
 

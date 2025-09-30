@@ -30,9 +30,3 @@ python_basic_hackerrank.pdf
 alex@github ~ $ cat certificates/python_basic_hackerrank.txt
 
 **[Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/4ff987be7b7e)** 
-
----
-
-alex@github ~ $ echo "Hit me up if you're into tech, design, video editing, or just want to connect!"
-
-Hit me up if you're into tech, design, video editing, or just want to connect!

@@ -1,25 +1,38 @@
-# <p style="text-align: center;">👋 Hi, I'm Alex 👨🏻‍💻 </p>
+alex@github ~ $ whoami
+# Alex Amygdalios 👨🏻‍💻
 
-## Tech Stack 💻
+alex@github ~ $ cat techstack.txt
+- Swift & SwiftUI: Building Apple interfaces
+- C: Basic understanding
+- Git: Version control
+- Python: APIs, automations, async, modular & OOP
 
-- **Swift & SwiftUI**: Making interfaces for Apple gadgets.
-- **C**: Basic understanding of the C programming language
-- **Git**: Controlling app versions.
-- **Python**: Advanced knowledge in API communications, automations, daemon scripts, async, modular and OOP.
+---
 
+alex@github ~ $ ls skills/
 
 [![My Skills](https://skillicons.dev/icons?i=apple,bash,figma,ps,git,github,raspberrypi,linux,notion,py,c,swift,vscode,firebase&perline=7)](https://skillicons.dev)
 
-## Stats 📊
+---
+
+alex@github ~ $ ./fetch_stats.sh
+
+[=] Loading GitHub language stats...
+
 ![amygdalios's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amygdalios&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
+---
 
-## Certificates 📜
-- **Python (Basic) from hackerrank** [View](https://www.hackerrank.com/certificates/4ff987be7b7e)
+alex@github ~ $ ls certificates/
 
-## Let's Connect 🌎
+python_basic_hackerrank.pdf
 
-- **Personal Instagram**: [@amygdalioss](https://www.instagram.com/amygdalioss/)
-- **LinkedIn**: [Alex Amygdalios](https://www.linkedin.com/in/%CE%B1%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82-%CE%B1%CE%BC%CF%85%CE%B3%CE%B4%CE%B1%CE%BB%CE%B9%CF%8C%CF%82-525308283/)
+alex@github ~ $ cat certificates/python_basic_hackerrank.txt
+
+**[Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/4ff987be7b7e)** 
+
+---
+
+alex@github ~ $ echo "Hit me up if you're into tech, design, video editing, or just want to connect!"
 
 Hit me up if you're into tech, design, video editing, or just want to connect!
